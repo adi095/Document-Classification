@@ -1,4 +1,6 @@
-# Data
+# Document Classification
+
+## Data
 We will use the RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset which consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.
 
 link : https://www.cs.cmu.edu/~aharley/rvl-cdip/
